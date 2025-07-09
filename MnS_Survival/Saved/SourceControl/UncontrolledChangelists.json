@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/micha/MnS/MnS_Survival/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FA/524Y2ZZCJ7KXZEXO9PZW1T.uasset",
+				"C:/Users/micha/MnS/MnS_Survival/Content/Blueprints/BP_SpinnyCube.uasset",
 				"C:/Users/shayg/OneDrive/Documents/MichaelAndShayProject/MnS_Survival/Content/StartMap.umap",
 				"C:/Users/shayg/MnS/MnS_Survival/Content/Blueprints/AC_PlayerStats.uasset",
 				"C:/Users/shayg/MnS/MnS_Survival/Content/ThirdPerson/Blueprints/BP_Character.uasset",
