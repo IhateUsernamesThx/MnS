@@ -11,7 +11,20 @@
 				"C:/Users/shayg/MnS/MnS_Survival/Content/UI/WB_PlayerStats.uasset",
 				"C:/Users/shayg/MnS/MnS_Survival/Content/UI/WB_HUD.uasset",
 				"C:/Users/shayg/MnS/MnS_Survival/Content/StartMap.umap",
-				"C:/Users/shayg/MnS/MnS_Survival/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+				"C:/Users/shayg/MnS/MnS_Survival/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Blueprints/BP_Hurty.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Animations/creatureBurnIdle.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Animations/ABP_Character.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Animations/ABP_Charcter.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Blueprints/BP_SpinnyCube.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/creatureRig.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Standard_Surface1.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/standardSurface1.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/creatureRig_Skeleton.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/creatureRig_PhysicsAsset.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Animations/creatureWalk.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Characters/Character/Animations/creatureRun.uasset"
 			]
 		}
 	]
