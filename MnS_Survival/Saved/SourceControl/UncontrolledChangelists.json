@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/shayg/OneDrive/Documents/MichaelAndShayProject/MnS_Survival/Content/StartMap.umap"
+				"C:/Users/shayg/OneDrive/Documents/MichaelAndShayProject/MnS_Survival/Content/StartMap.umap",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/Blueprints/AC_PlayerStats.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/ThirdPerson/Blueprints/BP_Character.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/UI/WB_PlayerStats.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/UI/WB_HUD.uasset",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/StartMap.umap",
+				"C:/Users/shayg/MnS/MnS_Survival/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
